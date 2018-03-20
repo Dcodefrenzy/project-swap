@@ -8,6 +8,9 @@
 <body>
 
 	<h1 align="center">Sign Up Form</h1>
+
+    <h2> SWAP SPACE HUB. HOME OF POTENTIAL DEVS ...</h2>
+
     <h3>Welcome to Our resgistration process</h3>
     <p>After you have submitted your account registration form, you will receive an email with your informations thank you.</p>
     <p>Please fill the form bellow.</p>
