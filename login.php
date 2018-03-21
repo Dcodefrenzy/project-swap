@@ -8,8 +8,12 @@
 <body>
 
     <form action="" method="">
+
+    <legend> Please login below . . .</legend>
     		<p>Firstname:<input type="text"/></p>
          <p>Email:<input type="email" /></p>
+
+         <p> Password : <input type="Password" name="pass"/> </p>
 
 
                 <input type="submit" value="Login" />
